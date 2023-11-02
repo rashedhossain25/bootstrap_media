@@ -1,2 +1,1 @@
-# bootstrap_media
-media sample
+ https://rashedhossain25.github.io/bootstrap_media/
