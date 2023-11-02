@@ -1,0 +1,13 @@
+.box{
+	height: 100vh;
+	background-color: red;
+}
+
+h1{
+	font-size: 80px;
+	background-color: green;
+}
+.border{
+	height: 40px;
+	background-color: black;
+}
